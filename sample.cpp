@@ -5,8 +5,8 @@ int sum(int,int);
 
 int main(){
     int a,b;
-    a=3;
-    b=5;
+    a=1;
+    b=9;
     std::cout<<sum(a,b)<<std::endl;
     return 0;
 }
