@@ -14,7 +14,7 @@ int main(){
     std::cout<<Input1<<"と"<<Input2<<"は表面的に仲が良く見えるが実際はわからない"<<std::endl;
 
     char Input3;
-    std::cin>>Input2;
+    std::cin>>Input3;
     
     std::cout<<Input1<<"は"<<Input2<<"と"<<Input3<<"と三角関係にある"<<std::endl;
 
