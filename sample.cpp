@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 
 
 int main(){
@@ -10,8 +11,7 @@ int main(){
 
     int addition_result;
     addition_result=Input1+Input2;
-
-    
+    std::cout<<std::to_string(addition_result)
 
     
 }
