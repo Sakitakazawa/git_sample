@@ -8,6 +8,9 @@ int main(){
     std::cin>>Input1;
     std::cin>>Input2;
 
+    int addition_result;
+    addition_result=Input1+Input2;
+
     
 
     
