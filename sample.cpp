@@ -19,5 +19,6 @@ int main(){
 
     int multiplication_result;
     multiplication_result=Input1*Input2;
+    std::cout<<std::to_string(multiplication_result);
 
 }
