@@ -11,6 +11,7 @@ int main(){
 
     std::cout<<Input1<<"は"<<Input2<<"と仲良しだ"<<std::endl;
     std::cout<<Input1<<"は"<<Input2<<"と仲が悪い"<<std::endl;
+    std::cout<<Input1<<"と"<<Input2<<"は表面的に仲が良く見えるが実際はわからない"<<std::endl;
 
 
 
