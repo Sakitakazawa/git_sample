@@ -15,6 +15,6 @@ int main(){
 
     int subtraction_result;
     subtraction_result=Input1-Input2;
-    
+    std::cout<<std::to_string(subtraction_result);
 
 }
