@@ -21,4 +21,8 @@ int main(){
     multiplication_result=Input1*Input2;
     std::cout<<std::to_string(multiplication_result);
 
+    int division_result;
+    division_result=Input1/Input2;
+    std::cout<<std::to_string(division_result);
+
 }
