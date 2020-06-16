@@ -17,4 +17,7 @@ int main(){
     subtraction_result=Input1-Input2;
     std::cout<<std::to_string(subtraction_result);
 
+    int multiplication_result;
+    multiplication_result=Input1*Input2;
+
 }
