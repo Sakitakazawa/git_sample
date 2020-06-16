@@ -8,7 +8,11 @@ int main(){
 
     std::cin>>Input1;
     std::cin>>Input2;
+
     std::cout<<Input1<<"は"<<Input2<<"と仲良しだ"<<std::endl;
+    std::cout<<Input1<<"は"<<Input2<<"と仲が悪い"<<std::endl;
+
+
 
 
 
