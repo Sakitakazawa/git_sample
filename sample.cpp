@@ -1,17 +1,11 @@
 #include<iostream>
-int sum(int,int);
-
 
 
 int main(){
-    int a,b;
-    a=1;
-    b=9;
-    std::cout<<sum(a,b)<<std::endl;
-    return 0;
-}
+    int Input1;
+    int Input2;
+    std::cin>>Input1;
+    std::cin>>Input2;
 
-int sum(int a,int b){
-    return a+b;
     
 }
