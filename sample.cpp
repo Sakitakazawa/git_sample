@@ -11,7 +11,10 @@ int main(){
 
     int addition_result;
     addition_result=Input1+Input2;
-    std::cout<<std::to_string(addition_result)
+    std::cout<<std::to_string(addition_result);
 
+    int subtraction_result;
+    subtraction_result=Input1-Input2;
     
+
 }
