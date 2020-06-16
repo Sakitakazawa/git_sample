@@ -15,10 +15,7 @@ int main(){
 
     char Input3;
     std::cin>>Input2;
-
-
-
-
-
+    
+    std::cout<<Input1<<"は"<<Input2<<"と"<<Input3<<"と三角関係にある"<<std::endl;
 
 }
